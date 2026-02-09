@@ -55,63 +55,63 @@ Each module is fully documented and linked below.
 🚀 Quick Start — Choose Your Path
 🏃 I’m in a Hurry (5 minutes)
 
-Read 👉 [AT_A_GLANCE.md](docs/AT_A_GLANCE.md)
+Read 👉 [AT_A_GLANCE.md](AT_A_GLANCE.md)
 
-Run setup from 👉 [IMPLEMENTATION_GUIDE.md](docs/IMPLEMENTATION_GUIDE.md)
+Run setup from 👉 [IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md)
 
-Test using 👉 [QUICK_REFERENCE.md](docs/QUICK_REFERENCE.md)
+Test using 👉 [QUICK_REFERENCE.md](QUICK_REFERENCE.md)
 
 🚶 I Want to Understand First (30 minutes)
 
-Read 👉 [SUMMARY.md](docs/SUMMARY.md)
+Read 👉 [SUMMARY.md](SUMMARY.md)
 
-Read 👉 [FEATURE_DOCUMENTATION.md](docs/FEATURE_DOCUMENTATION.md)
+Read 👉 [FEATURE_DOCUMENTATION.md](FEATURE_DOCUMENTATION.md)
 
-Review 👉 [ARCHITECTURE_OVERVIEW.md](docs/ARCHITECTURE_OVERVIEW.md)
+Review 👉 [ARCHITECTURE_OVERVIEW.md](ARCHITECTURE_OVERVIEW.md)
 
-Check 👉 [CODE_CHANGES_SUMMARY.md](docs/CODE_CHANGES_SUMMARY.md)
+Check 👉 [CODE_CHANGES_SUMMARY.md](CODE_CHANGES_SUMMARY.md)
 
 🔧 I’m Ready to Deploy (45 minutes)
 
-Follow 👉 [IMPLEMENTATION_GUIDE.md](docs/IMPLEMENTATION_GUIDE.md)
+Follow 👉 [IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md)
 
-Verify using 👉 [IMPLEMENTATION_CHECKLIST.md](docs/IMPLEMENTATION_CHECKLIST.md)
+Verify using 👉 [IMPLEMENTATION_CHECKLIST.md](IMPLEMENTATION_CHECKLIST.md)
 
-Confirm completion 👉 [IMPLEMENTATION_COMPLETE.md](docs/IMPLEMENTATION_COMPLETE.md)
+Confirm completion 👉 [IMPLEMENTATION_COMPLETE.md](IMPLEMENTATION_COMPLETE.md)
 
 📖 Documentation Guide
 📌 Start Here
 
-👉 [DOCUMENTATION_INDEX.md](docs/DOCUMENTATION_INDEX.md)
+👉 [DOCUMENTATION_INDEX.md](DOCUMENTATION_INDEX.md)
 Navigation guide to all documentation
 
 🔍 For Quick Lookup
 
-👉 [QUICK_REFERENCE.md](docs/QUICK_REFERENCE.md)
+👉 [QUICK_REFERENCE.md](QUICK_REFERENCE.md)
 
 ⚙ For Setup & Testing
 
-👉 [IMPLEMENTATION_GUIDE.md](docs/IMPLEMENTATION_GUIDE.md)
+👉 [IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md)
 
 👀 For Understanding
 
-👉 [SUMMARY.md](docs/SUMMARY.md)
+👉 [SUMMARY.md](SUMMARY.md)
 
 🏗 For Deep Dive
 
-👉 [ARCHITECTURE_OVERVIEW.md](docs/ARCHITECTURE_OVERVIEW.md)
+👉 [ARCHITECTURE_OVERVIEW.md](ARCHITECTURE_OVERVIEW.md)
 
 🧪 For Code Review
 
-👉 [CODE_CHANGES_SUMMARY.md](docs/CODE_CHANGES_SUMMARY.md)
+👉 [CODE_CHANGES_SUMMARY.md](CODE_CHANGES_SUMMARY.md)
 
 ✅ For Verification
 
-👉 [IMPLEMENTATION_CHECKLIST.md](docs/IMPLEMENTATION_CHECKLIST.md)
+👉 [IMPLEMENTATION_CHECKLIST.md](IMPLEMENTATION_CHECKLIST.md)
 
 📄 For Confirmation
 
-👉 [IMPLEMENTATION_COMPLETE.md](docs/IMPLEMENTATION_COMPLETE.md)
+👉 [IMPLEMENTATION_COMPLETE.md](IMPLEMENTATION_COMPLETE.md)
 
 🎯 Feature Overview
 👤 Patient Module
@@ -144,7 +144,7 @@ Navigation guide to all documentation
 
 This project is complete, documented, and production-ready.
 
-👉 Start with [DOCUMENTATION_INDEX.md](docs/DOCUMENTATION_INDEX.md)
-👉 Or jump directly to [QUICK_START_GUIDE.md](docs/QUICK_START_GUIDE.md)
+👉 Start with [DOCUMENTATION_INDEX.md](DOCUMENTATION_INDEX.md)
+👉 Or jump directly to [QUICK_START_GUIDE.md](QUICK_START_GUIDE.md)
 
 📌 Developed for academic & professional learning purposes
